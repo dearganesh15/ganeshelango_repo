@@ -1,4 +1,4 @@
-# Ganeshelango Repo
+# Ganesh Elango Repo
 
 ## Overview
 This repository showcases my data engineering projects and hands-on practice with modern data pipelines, ETL workflows, and cloud technologies. The projects are designed to demonstrate scalable, efficient, and maintainable data solutions, reflecting my experience in designing and modernizing data systems across financial services and payments domains.
